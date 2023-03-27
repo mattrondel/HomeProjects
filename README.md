@@ -1,16 +1,13 @@
-HomeProjects
+- **HomeProjects:**
 
-Garage door
-
-
+- **Garage door:**
 
 - **Garden:** [Project notes](https://github.com/mattrondel/Gardening-Notes)
 
+- **Wood tile floor repair:**
 
-Wood tile floor repair
+- **Bathtub cover:**
 
-Bathtub cover
+- **Shower door leaking:**
 
-Shower door leaking
-
-Quail
+- **Quail:**
