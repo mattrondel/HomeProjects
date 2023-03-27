@@ -7,7 +7,7 @@ Garage door
 - **Garden:** [Project notes](https://github.com/mattrondel/Gardening-Notes)
 
 
-Tile floor repair
+Wood tile floor repair
 
 Bathtub cover
 
