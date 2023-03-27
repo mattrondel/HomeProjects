@@ -1,13 +1,13 @@
-# HomeProjects
+HomeProjects
 
-# Garage door
+Garage door
 
-# Garden
+Garden
 
-# Tile floor repair
+Tile floor repair
 
-# Bathtub cover
+Bathtub cover
 
-# Shower door leaking
+Shower door leaking
 
-# Quail
+Quail
