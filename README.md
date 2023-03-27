@@ -1,6 +1,6 @@
 - **HomeProjects:**
 
-- **Garage door:**
+- **Garage door opening again:**
 
 - **Garden:** [Project notes](https://github.com/mattrondel/Gardening-Notes)
 
