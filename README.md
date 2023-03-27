@@ -2,7 +2,10 @@ HomeProjects
 
 Garage door
 
-Garden
+
+
+- **Garden:** [Project notes](https://github.com/mattrondel/Gardening-Notes)
+
 
 Tile floor repair
 
