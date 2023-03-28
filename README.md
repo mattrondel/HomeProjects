@@ -13,5 +13,10 @@
 
 https://www.amazon.com/Frameless-Shower-Bottom-16-Inch-36-Inch/dp/B01LEU5Y64/ref=asc_df_B01LEU5Y64
 https://www.amazon.com/Shower-Bottom-Sweep-Create-Barrier/dp/B09TQGYQPR/
+
+- Install shower shelf
+need to find the leveler
+
+
 - **Quail:**
  Garcia's Feed & Pet 3143 Niles St Bakersfield, CA 93306
