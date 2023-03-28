@@ -14,7 +14,7 @@
 https://www.amazon.com/Frameless-Shower-Bottom-16-Inch-36-Inch/dp/B01LEU5Y64/ref=asc_df_B01LEU5Y64
 https://www.amazon.com/Shower-Bottom-Sweep-Create-Barrier/dp/B09TQGYQPR/
 
-- Install shower shelf
+- **Install shower shelf: **
 need to find the leveler
 
 
