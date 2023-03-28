@@ -4,7 +4,7 @@
 
 - **Garden:** [Project notes](https://github.com/mattrondel/Gardening-Notes)
 
-- **Wood tile floor repair:**
+- **Wood tile floor repair:** hard wood floor lifting https://www.youtube.com/watch?v=BA_PtpcYrp0
 
 - **Bathtub cover:** [Bathtub](https://github.com/mattrondel/Bathtub)
 
