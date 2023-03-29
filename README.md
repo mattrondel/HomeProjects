@@ -26,3 +26,42 @@ rear window support struts
 
 - **TV:** 
 - enable developer mode to possible remove preinstalled apps
+
+
+
+Sharables:
+http://learnmore.scholarsapply.org/northropgrumman
+
+274.90 credit card
+
+find and email over printable book for sara and 3 hole punch or staple items
+
+eagle tech et kg010
+
+https://www.amazon.com/EagleTec-Mechanical-Keyboard-Industrial-Aluminium/dp/B086VRHTNG
+
+Magnet sheets for stickers
+
+https://www.amazon.com/Mr-Adhesive-Magnetic-Backing-Flexible/dp/B09ZLPQLRN/
+
+or 
+https://www.amazon.com/dp/B0B6FLH8V7
+
+
+June 4 -8
+
+For Cupboard:
+
+Loctite PL Premium 4 fl. oz. Polyurethane Adhesive
+
+https://www.youtube.com/watch?v=crkktHlPMYY
+
+Internet # 203009252
+
+Model # 1451588
+
+Store SKU # 125307
+
+For seat belts: 
+B'laster 16-SL Industrial Strength Silicone Lubricant 
+https://www.homedepot.com/p/Blaster-11-oz-Industrial-Strength-Silicone-Lubricant-Spray-16-SL/202529794
