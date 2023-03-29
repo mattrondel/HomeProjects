@@ -23,3 +23,6 @@ need to find the leveler
 
 - **Suburban**
 rear window support struts
+
+- **TV:** 
+- enable developer mode to possible remove preinstalled apps
