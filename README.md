@@ -32,7 +32,7 @@ rear window support struts
 Sharables:
 http://learnmore.scholarsapply.org/northropgrumman
 
-274.90 credit card
+274.90 credit card - paid
 
 find and email over printable book for sara and 3 hole punch or staple items
 
