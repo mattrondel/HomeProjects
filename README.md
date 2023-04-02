@@ -20,6 +20,8 @@ need to find the leveler
 
 - **Quail:**
  Garcia's Feed & Pet 3143 Niles St Bakersfield, CA 93306
+hatch temps are 99.5 100.5
+
 
 - **Suburban**
 rear window support struts
