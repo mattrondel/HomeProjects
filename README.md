@@ -1,10 +1,10 @@
 - **HomeProjects:**
 
-| Topic | Name | Date | Progress
-| --- | --- | --- |
-| git status | List all new or modified files | List all new or modified files | thunderbusters
-
-| git diff | Show file differences that haven't been staged |
+| Topic | suggested by | Date | Progress | 
+| --- | --- | --- | --- |
+| Shower door fixed | me | Date | need to measure | 
+| Shower door fixed | me | Date | need to measure | 
+| Shower door fixed | me | Date | need to measure | 
 
 
 - **Garage door opening again:**
