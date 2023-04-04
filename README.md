@@ -1,8 +1,9 @@
 - **HomeProjects:**
 
-| Topic | suggested by | Date | Progress | 
+| Topic | suggested by | projected done | Progress | 
 | --- | --- | --- | --- |
-| Shower door fixed | me | Date | need to measure | 
+| Shower door fixed | me | Date | need to measure
+next line?| 
 | Shower door fixed | me | Date | need to measure | 
 | Shower door fixed | me | Date | need to measure | 
 
