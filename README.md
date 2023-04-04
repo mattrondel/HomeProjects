@@ -1,8 +1,9 @@
 - **HomeProjects:**
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
+| Topic | Name | Date | Progress
+| --- | --- | --- |
+| git status | List all new or modified files | List all new or modified files | thunderbusters
+
 | git diff | Show file differences that haven't been staged |
 
 
