@@ -79,8 +79,15 @@ https://www.homedepot.com/p/Blaster-11-oz-Industrial-Strength-Silicone-Lubricant
 Dog pen / fence
 
 Back door knob
+https://homeguides.sfgate.com/fix-door-knob-turns-but-doesnt-open-90997.html
+
+damn thing is a set probly would suck having different set of keys for front and back see above link to fix issue
+https://www.homedepot.com/p/Schlage-Camelot-Antique-Brass-Single-Cylinder-Deadbolt-with-Left-Handed-Flair-Handle-Door-Handleset-F60-CAM-609-FLA-LH/202356984
+
 
 https://www.yelp.com/biz/flame-and-fire-brazilian-steakhouse-bakersfield
+
+
 
 send in switch controlers
 what is the url ?
