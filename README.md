@@ -37,6 +37,7 @@ rear window support struts
 - **TV:** 
 - enable developer mode to possible remove preinstalled apps
 
+computer chair for sara
 
 
 Sharables:
