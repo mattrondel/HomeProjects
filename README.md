@@ -78,6 +78,7 @@ B'laster 16-SL Industrial Strength Silicone Lubricant
 https://www.homedepot.com/p/Blaster-11-oz-Industrial-Strength-Silicone-Lubricant-Spray-16-SL/202529794
 
 Dog pen / fence
+https://www.familyhandyman.com/list/deer-fencing/
 
 Back door knob
 https://homeguides.sfgate.com/fix-door-knob-turns-but-doesnt-open-90997.html
