@@ -1,3 +1,7 @@
+Replacement hose for vaccuumm
+https://www.amazon.com/Replacement-Bissell-Assembly-1606127-160-6127/dp/B09CWQ4RJ3/
+https://www.partswarehouse.com/Bissell-Hose-with-Duct-Intake-1606127-p/1606127.htm
+
 - **HomeProjects:**
 
 | Topic | suggested by | projected done | Progress | 
