@@ -11,6 +11,9 @@ next line?|
 | Shower door fixed | me | Date | need to measure | 
 | Shower door fixed | me | Date | need to measure | 
 
+stuff to try:
+
+https://juneshine.com/pages/find-us
 
 - **Garage door opening again:**
 
