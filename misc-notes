@@ -1,0 +1,33 @@
+Here are effective interview questions organized by key areas for an Information Systems Security Engineer role:
+
+**Technical Security Knowledge**
+- Walk me through how you would conduct a security risk assessment for a new application or system
+- Describe the difference between vulnerability scanning and penetration testing, and when you'd use each
+- How would you respond to a suspected data breach? What are your first three steps?
+- Explain defense in depth and give me examples of how you've implemented it
+- What's your approach to securing cloud infrastructure versus on-premises systems?
+
+**Incident Response & Problem-Solving**
+- Tell me about a time you had to investigate a security incident. What was your methodology?
+- How do you stay current with emerging threats and vulnerabilities?
+- Describe a situation where you had to balance security requirements with business needs
+- What would you do if you discovered a critical vulnerability in a production system that couldn't be immediately patched?
+
+**Compliance & Governance**
+- How do you approach security compliance frameworks like SOC 2, ISO 27001, or industry-specific regulations?
+- Describe your experience with security audits and how you prepare for them
+- How do you document and communicate security policies to non-technical stakeholders?
+
+**Technical Implementation**
+- What security tools and technologies have you worked with? Which do you prefer and why?
+- How do you approach network segmentation and access controls?
+- Explain your experience with identity and access management systems
+- What's your process for security architecture reviews?
+
+**Soft Skills & Communication**
+- How do you explain complex security risks to executives or business users?
+- Describe a time you had to push back on a business request due to security concerns
+- How do you prioritize security initiatives when resources are limited?
+- Tell me about a time you had to collaborate with development teams on secure coding practices
+
+These questions will help you assess both technical competency and the practical experience needed for the role.​​​​​​​​​​​​​​​​
