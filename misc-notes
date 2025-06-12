@@ -16,6 +16,14 @@ vulnerability scanners - scap
 firewalls juniper, sonicwall, little cisco firepower exp had an in person class on it
 Endpoint protection - Epo/trellix being biggest but other ones like avast
 - Think through incident response scenarios and your methodology for handling them
+possible answers:
+I havn't worked/experenced an incident response in dod space before but I have been researching (via cissp curiosity) and understand that there are systematic processes to detect, respond to, and mitigate security incidents.
+or
+this would be new territory for me and this is what excites me about this role I hope to never have to experce it but I do my best work when I'm learning and growing
+or
+while I havnt experenced in incident response in dod spaces I have midigated risks such as a spread of ransomware through several spall businesses
+or 
+I havnt used that software before / in depth but I'm a quick learner with new technologies. when I needed to master Cisco ISE for a previous role I build a lab at home and practiced with real hardware until i proficent.
 
 **Common Question Categories to Expect**
 - **Scenario-based questions**: "How would you handle a suspected malware infection?" or "Walk us through securing a new cloud deployment"
