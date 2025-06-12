@@ -14,10 +14,10 @@ zero trust architecture - strict identity verification for every user and device
 - Be ready to discuss specific security frameworks you've worked with (NIST, ISO 27001, etc.)
 Identify, Protect, Detect, Respond, and Recover
 - Prepare examples of security tools you've used: 
-SIEM platforms, 
-vulnerability scanners, 
-firewalls juniper, sonicwall, little cisco firepower had an in person class on it
-Endpoint protection - Epo being biggest but other ones like avast
+SIEM platforms mcaffee McAfee Enterprise Security Manager (ESM)
+vulnerability scanners - scap 
+firewalls juniper, sonicwall, little cisco firepower exp had an in person class on it
+Endpoint protection - Epo/trellix being biggest but other ones like avast
 - Think through incident response scenarios and your methodology for handling them
 
 **Common Question Categories to Expect**
@@ -25,26 +25,41 @@ Endpoint protection - Epo being biggest but other ones like avast
 - **Technical depth questions**: About encryption, network security, access controls, or specific technologies
 - **Compliance questions**: Your experience with audits, regulatory requirements, risk assessments
 - **Behavioral questions**: Times you've had to communicate security risks to non-technical teams or balance security with business needs
+see below for WEP, Vlan, Palm Ranch Water district
 
 **Key Areas to Highlight**
 - Your hands-on experience with security technologies and tools
-mcaffee McAfee Enterprise Security Manager 
+mcaffee McAfee Enterprise Security Manager (ESM)
 mcaffee epo aka trellix, implementing by hand (IAC is possible just not experenced it yet)
 - Examples of security projects you've led or contributed to significantly
-xdomain solutions
+cross domain solutions - xarbitor troubleshooting bad words
 
 - Your ability to translate technical risks into business language
-wep at doctors offices
+WEP at doctors offices
 vlans for ransomware
+was working on large scale project for hotel chain down here failed (PCI DSS) audit and needed terminals seprated from guest network
+(credit card and also local water district network speration/wireless
+
 - Continuous learning efforts (certifications, training, staying current with threats)
 az-104 is latest taken courses
 just renewed ccna, sec+
+EPolicy Orchestrator 5.10 Essentials completed on 04/2021
 
 **Questions to Ask Them**
 - What are the biggest security challenges facing the organization currently?
+
+
+
 - What security tools and technologies does the team currently use?
+
+
+
 - How does the security team collaborate with other departments?
+
+
+
 - What opportunities are there for professional development and certification?
+
 
 
 *****
