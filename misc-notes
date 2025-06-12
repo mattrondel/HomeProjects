@@ -5,25 +5,25 @@ Confidentiality like making sure data is kept secret or private.
 Integrity is data is trustworthy and free from tampering like a hash / checksum on files
 Availability data is useless unless it is available to those in the organization and the customers they serve
 
-Defense in depth - gives administrators time to launch countermeasures dmz's are good examples of this or vlan sepration 
+Defense in depth - gives administrators time to launch countermeasures dmz's are good examples of this or vlan separation 
 zero trust architecture - strict identity verification for every user and device attempting to access resources 2fa is a good example of this like rsa tokens, something you own and have
 
 - Be ready to discuss specific security frameworks you've worked with (NIST, ISO 27001, etc.)
 Identify, Protect, Detect, Respond, and Recover
 - Prepare examples of security tools you've used: 
 SIEM platforms mcaffee McAfee Enterprise Security Manager (ESM)
-vulnerability scanners - scap 
-firewalls juniper, sonicwall, little cisco firepower exp had an in person class on it
+Vulnerability scanners - scap 
+Firewalls juniper, SonicWALL, little cisco firepower exp had an in person class on it
 Endpoint protection - Epo/trellix being biggest but other ones like avast
 - Think through incident response scenarios and your methodology for handling them
-possible answers:
-I havn't worked/experenced an incident response in dod space before but I have been researching (via cissp curiosity) and understand that there are systematic processes to detect, respond to, and mitigate security incidents.
+Possible answers:
+I havn't worked/experienced an incident response in dod space before but I have been researching (via cissp curiosity) and understand that there are systematic processes to detect, respond to, and mitigate security incidents.
 or
 this would be new territory for me and this is what excites me about this role I hope to never have to experce it but I do my best work when I'm learning and growing
 or
-while I havnt experenced in incident response in dod spaces I have midigated risks such as a spread of ransomware through several spall businesses
+while I haven’t experienced in incident response in dod spaces I have mitigated risks such as a spread of ransomware through several small businesses
 or 
-I havnt used that software before / in depth but I'm a quick learner with new technologies. when I needed to master Cisco ISE for a previous role I build a lab at home and practiced with real hardware until i proficent.
+I haven’t used that software before / in depth but I'm a quick learner with new technologies. when I needed to master Cisco ISE for a previous role I build a lab at home and practiced with real hardware until i was proficient.
 
 **Common Question Categories to Expect**
 - **Scenario-based questions**: "How would you handle a suspected malware infection?" or "Walk us through securing a new cloud deployment"
@@ -35,7 +35,7 @@ see below for WEP, Vlan, Palm Ranch Water district
 **Key Areas to Highlight**
 - Your hands-on experience with security technologies and tools
 mcaffee McAfee Enterprise Security Manager (ESM)
-mcaffee epo aka trellix, implementing by hand (IAC is possible just not experenced it yet)
+mcaffee epo aka trellix, implementing by hand (IAC is possible just not experienced it yet)
 - Examples of security projects you've led or contributed to significantly
 cross domain solutions - xarbitor troubleshooting bad words
 
@@ -43,7 +43,7 @@ cross domain solutions - xarbitor troubleshooting bad words
 WEP at doctors offices
 vlans for ransomware
 was working on large scale project for hotel chain down here failed (PCI DSS) audit and needed terminals seprated from guest network
-(credit card and also local water district network speration/wireless
+(credit card and also local water district network separation/wireless
 
 - Continuous learning efforts (certifications, training, staying current with threats)
 az-104 is latest taken courses
@@ -101,4 +101,4 @@ Here are effective interview questions organized by key areas for an Information
 - How do you prioritize security initiatives when resources are limited?
 - Tell me about a time you had to collaborate with development teams on secure coding practices
 
-These questions will help you assess both technical competency and the practical experience needed for the role.​​​​​​​​​​​​​​​​
+These questions will help you assess both technical competency and the practical experience needed for the role.
