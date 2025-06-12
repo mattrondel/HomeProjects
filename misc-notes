@@ -2,9 +2,22 @@
 Ah, I misunderstood! You're the one being interviewed FOR the Information Systems Security Engineer position. Here's how to prepare for the types of questions you're likely to face:
 
 **Technical Preparation**
-- Review fundamental security concepts: CIA triad, defense in depth, zero trust architecture
+- Review fundamental security concepts: CIA triad
+Confidentiality, Integrity, and Availability
+Confidentiality like making sure data is kept secret or private.
+Integrity is data is trustworthy and free from tampering like a hash / checksum on files
+Availability data is useless unless it is available to those in the organization and the customers they serve
+
+Defense in depth - gives administrators time to launch countermeasures dmz's are good examples of this or vlan sepration 
+zero trust architecture - strict identity verification for every user and device attempting to access resources 2fa is a good example of this like rsa tokens, something you own and have
+
 - Be ready to discuss specific security frameworks you've worked with (NIST, ISO 27001, etc.)
-- Prepare examples of security tools you've used: SIEM platforms, vulnerability scanners, firewalls, endpoint protection
+Identify, Protect, Detect, Respond, and Recover
+- Prepare examples of security tools you've used: 
+SIEM platforms, 
+vulnerability scanners, 
+firewalls juniper, sonicwall, little cisco firepower had an in person class on it
+Endpoint protection - Epo being biggest but other ones like avast
 - Think through incident response scenarios and your methodology for handling them
 
 **Common Question Categories to Expect**
@@ -15,17 +28,23 @@ Ah, I misunderstood! You're the one being interviewed FOR the Information System
 
 **Key Areas to Highlight**
 - Your hands-on experience with security technologies and tools
+mcaffee McAfee Enterprise Security Manager 
+mcaffee epo aka trellix, implementing by hand (IAC is possible just not experenced it yet)
 - Examples of security projects you've led or contributed to significantly
+xdomain solutions
+
 - Your ability to translate technical risks into business language
+wep at doctors offices
+vlans for ransomware
 - Continuous learning efforts (certifications, training, staying current with threats)
+az-104 is latest taken courses
+just renewed ccna, sec+
 
 **Questions to Ask Them**
 - What are the biggest security challenges facing the organization currently?
 - What security tools and technologies does the team currently use?
 - How does the security team collaborate with other departments?
 - What opportunities are there for professional development and certification?
-
-Would you like help preparing for any specific aspects of the interview or practicing answers to particular types of questions?​​​​​​​​​​​​​​​​
 
 
 *****
