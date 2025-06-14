@@ -1,3 +1,7 @@
+Firewalls I spent a significant time working on:
+
+Juniper SRX1500 and srx 300 (running Junos 17.4 R1.16 and 19
+
 **What Firewalls Do**
 
 Firewalls are network security devices that monitor and control incoming and outgoing network traffic based on predetermined security rules. They act as a barrier between trusted internal networks and untrusted external networks like the internet.
