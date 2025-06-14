@@ -4,13 +4,13 @@ Firewalls are network security devices that monitor and control incoming and out
 
 **Types of Firewalls**
 
-Packet Filtering Firewalls: Examine individual packets and make decisions based on IP addresses, ports, and protocols. Fast but limited in scope.
+**Packet Filtering Firewalls**: Examine individual packets and make decisions based on IP addresses, ports, and protocols. Fast but limited in scope.
 
-Stateful Inspection Firewalls: Track the state of active connections and make decisions based on connection context, not just individual packets. More secure than packet filtering.
+**Stateful Inspection Firewalls**: Track the state of active connections and make decisions based on connection context, not just individual packets. More secure than packet filtering.
 
-Application Layer Firewalls (Proxy Firewalls): Operate at the application layer, inspecting the actual content of communications. Can understand specific protocols like HTTP, FTP, or SMTP.
+**Application Layer Firewalls (Proxy Firewalls)**: Operate at the application layer, inspecting the actual content of communications. Can understand specific protocols like HTTP, FTP, or SMTP.
 
-Next-Generation Firewalls (NGFW): Combine traditional firewall capabilities with additional features like intrusion prevention, application awareness, and deep packet inspection.
+**Next-Generation Firewalls (NGFW)**: Combine traditional firewall capabilities with additional features like intrusion prevention, application awareness, and deep packet inspection.
 
 **Deployment Models**
 
