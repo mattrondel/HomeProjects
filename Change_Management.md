@@ -10,4 +10,4 @@ Key elements of change management include:
 
 - Monitoring and evaluation: Tracking progress and evaluating the success of the change to ensure objectives are met.
 
-example of this is adding adobe reader instead of Edge, examples
+example of this is adding adobe reader instead of Edge, examples, this for pdf files created in adobe Lifecycle designer
