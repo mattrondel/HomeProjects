@@ -9,3 +9,5 @@ Key elements of change management include:
 - Support for affected individuals: Providing training, counseling, and support to those impacted by the change.
 
 - Monitoring and evaluation: Tracking progress and evaluating the success of the change to ensure objectives are met.
+
+example of this is adding adobe reader instead of Edge, examples
